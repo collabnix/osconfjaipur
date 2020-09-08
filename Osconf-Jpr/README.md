@@ -4,5 +4,3 @@ OSCONF is a platform built to connect & bring all leading Meetup communities, Cl
 
 ![My Image](https://github.com/collabnix/osconf/blob/master/images/Screenshot%202020-08-08%20at%206.29.08%20PM.png)
 
-
-Testing readme
