@@ -1110,17 +1110,22 @@ button:focus {
 }
 
 .brand-img {
-	height: 100px;
-	width: 200px;
+	height: 120px;
+	width: 220px;
 }
 
 .docker-img {
-	height: 150px;
-	width: 200px
+	height: 120px;
+	width: 170px
+}
+
+.firebase-img {
+	height: 120px;
+
 }
 
 .zubi {
-	height: 100px;
+	height: 120px;
 }
 
 
